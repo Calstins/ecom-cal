@@ -1,0 +1,8 @@
+{
+    "nodeReadme.overrides": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
